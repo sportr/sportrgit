@@ -8,7 +8,6 @@ Help Materials:
 
 1) https://support.managed.com/kb/a399/how-to-install-or-update-a-module-or-skin-in-dotnetnuke.aspx 
 
-2) http://www.dnnsoftware.com/resources/webinars/how-to-build-an-online-social-community-with-the-open-source-dnn-platform/view/webinar 
 
 Azure Website Name: sportsr
 
