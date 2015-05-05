@@ -8,6 +8,8 @@ Help Materials:
 
 1) https://support.managed.com/kb/a399/how-to-install-or-update-a-module-or-skin-in-dotnetnuke.aspx 
 
+2) http://www.dnnsoftware.com/community-blog/cid/132000/dotnetnuke-skinning-101-part-1
+
 
 Azure Website Name: sportsr
 
